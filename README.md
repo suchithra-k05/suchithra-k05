@@ -2,7 +2,7 @@
 
 # 
 
-- BCA gaduate and certified Data Analyst. I work with data to create insights through SQL queries, Excel reports, Tableau and PowerBI dashboards.
+- BCA gaduate and certified Data Analyst. I work with data to create insights through Excel reports, Tableau and PowerBI dashboards.
 - Currently learning SQL and python to strengthen my analytics skills.
 
 
